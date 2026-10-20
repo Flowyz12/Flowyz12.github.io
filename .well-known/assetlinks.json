@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.flowyz12.twa",
+        "sha256_cert_fingerprints": ["C9:F2:5A:E3:D4:2E:69:EF:94:EE:67:9F:F1:9F:AB:71:FE:E1:85:66:D5:B3:1D:30:AB:CB:89:BF:DA:38:AA:09"]
+      }
+    }]
